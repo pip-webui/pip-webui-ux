@@ -1,4 +1,4 @@
-# <img src="https://github.com/pip-webui/pip-webui/blob/master/assets/Logo.png" alt="Pip.WebUI Logo" style="max-width:30%"> <br/> UX Concept for LOB Applications
+# <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/Logo.png" alt="Pip.WebUI Logo" style="max-width:30%"> <br/> UX Concept for LOB Applications
 
 Irrelevant to implementation technology, user interactions in Line-Of-Business (LOB) applications 
 follow similar patterns. Users held responsibilities over certain work areas. They need to constantly monitor 
@@ -6,7 +6,7 @@ and keep their areas under control. They receive, browse and analyze large volum
 They do multi-tasking, handle distruptive events, collaborate with others inside and outside the system.
 
 <div style="border: 1px solid #ccc">
-  <img src="https://github.com/pip-webui/pip-webui/blob/master/assets/Process.png" alt="Process Overview" style="display:block;">
+  <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/Process.png" alt="Process Overview" style="display:block;">
 </div>
 
 In this UX concept we put together principles and patterns extracted from multiple LOB applications. 
@@ -16,7 +16,7 @@ the concept future proof. We are planning to use it to emerging technologies suc
 virtual and augmented reality, touch tables and so on.
 
 <div style="border: 1px solid #ccc">
-  <img src="https://github.com/pip-webui/pip-webui/blob/master/assets/ConceptMapping.png" alt="Concept Mapping" style="display:block;">
+  <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/ConceptMapping.png" alt="Concept Mapping" style="display:block;">
 </div>
 
 - [Abstract technology-agnostic UX concept](abstract/AbstractUX.md)
