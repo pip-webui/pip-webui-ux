@@ -5,7 +5,7 @@ follow similar patterns. Users held responsibilities over certain work areas. Th
 and keep their areas under control. They receive, browse and analyze large volumes of ever changing data.
 They do multi-tasking, handle distruptive events, collaborate with others inside and outside the system.
 
-<div style="border: 1px solid #ccc">
+<div style="border: 1px solid #ccc; bottom-margin: 25px;">
   <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/WebUI-UX-1.png" alt="Process Overview" style="display:block;">
 </div>
 
