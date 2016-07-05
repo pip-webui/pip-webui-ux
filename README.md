@@ -16,7 +16,7 @@ the concept future proof. We are planning to use it to emerging technologies suc
 virtual and augmented reality, touch tables and so on.
 
 <div style="border: 1px solid #ccc">
-  <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/ConceptMapping.png" alt="Concept Mapping" style="display:block;">
+  <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/WebUI-UX-2.png" alt="Concept Mapping" style="display:block;">
 </div>
 
 - [Abstract technology-agnostic UX concept](https://github.com/pip-webui/pip-webui-ux/blob/master/abstract/AbstractUXConcept.md)
