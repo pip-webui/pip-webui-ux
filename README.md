@@ -6,7 +6,7 @@ and keep their areas under control. They receive, browse and analyze large volum
 They do multi-tasking, handle distruptive events, collaborate with others inside and outside the system.
 
 <div style="border: 1px solid #ccc">
-  <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/Process.png" alt="Process Overview" style="display:block;">
+  <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/WebUI-UX-1.png" alt="Process Overview" style="display:block;">
 </div>
 
 In this UX concept we put together principles and patterns extracted from multiple LOB applications. 
