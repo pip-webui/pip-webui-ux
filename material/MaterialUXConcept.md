@@ -17,24 +17,28 @@ Principles define common guidelines that can be applyed to most of UI designs.
 ###### Adaptive UI
 To provide good usability of LOB applications and give user ability be efficient on variety of devices layout should be adjusted to width of the screen. 
 
-- Screen size:
+- **Screen size:**
     * Small -   mobile  480-640px
     * Medium -  tablet  640-960px
     * Large -   desktop >960px
-- Orientation:
+- **Orientation:**
     * Landscape
     * Portrait
 
 **Scale**
+
 Layout adopts to sceen width by switching between brake points.
 
 **Float**
+
 Layout fill all width and changes with screen size.
 
 **Essential first**
+
 Prioritization of imnformation helps to hide aneccessary information on smalest screen resolutions.
 
 **Form factor specific**
+
 Layout can be chenaged to provide best usability on small screens.
 
 ###### Extensiobility
