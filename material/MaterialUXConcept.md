@@ -85,7 +85,67 @@ TBD...
 
 ## <a name="patterns"></a> Patterns
 
+#### Layouts
+
+Data can be placed at standard fully responsive layouts (containers) such as:
+- Simple
+- Document
+- Master Details
+- Split View
+- Card
+- Tile
+- Dialogs
+
+#### Data visualization
+
+Avoid of usage table for datarepresentation, because there are few alternatives available:
+- Table View
+- Graphical View
+- Details Gallery
+- List View
+- Grid View
+- Shematic View
+
+#### Editing
 TBD...
+
+#### Interface states
+
+###### Empty state
+###### Error state
+###### Loading state
+
+#### Local search and filtering
+TBD...
+
+#### Global search
+TBD...
+
+#### Unique URL
+TBD...
+
+#### Actions
+
+###### Application actions
+###### Page actions
+###### Context actions
+
+#### Dialogs
+TBD...
+
+#### Dashboard
+TBD...
+
+#### Notifications
+TBD...
+
+#### Settings
+TBD...
+
+#### Help
+TBD...
+
+
 
 ## <a name="references"></a> References
 
