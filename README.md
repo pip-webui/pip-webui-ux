@@ -19,6 +19,10 @@ virtual and augmented reality, touch tables and so on.
   <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/WebUI-UX-2.png" alt="Concept Mapping" style="display:block;">
 </div>
 
+<div style="border: 1px solid #ccc">
+  <img src="https://github.com/pip-webui/pip-webui-ux/blob/master/assets/WebUI-UX-2.png" alt="Concept Mapping" style="display:block;">
+</div>
+
 - [Abstract technology-agnostic UX concept](https://github.com/pip-webui/pip-webui-ux/blob/master/abstract/AbstractUXConcept.md)
 - [UX concept for Microsoft Metro style applications](https://github.com/pip-webui/pip-webui-ux/blob/master/metro/MetroUXConcept.md)
 - [UX concept for Google Material style applications](https://github.com/pip-webui/pip-webui-ux/blob/master/material/MaterialUXConcept.md)
