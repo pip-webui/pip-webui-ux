@@ -63,20 +63,25 @@ LOB applications interface has extension point that can be used to fill interfac
     * Sensors
 
 #### Multipartite applications
+TBD...
 
 #### Intuitive UI
 Understanding better then memorizing.
 
 #### Connection resistant applications
+TBD...
 
 #### Heavy datasets
+TBD...
 
 #### Constant navigation
+TBD...
 
 #### Multitasking
+TBD...
 
 #### Microinteractions
-
+TBD...
 
 ## <a name="patterns"></a> Patterns
 
