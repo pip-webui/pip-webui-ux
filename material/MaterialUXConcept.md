@@ -14,7 +14,7 @@ TBD...
 ## <a name="principles"></a> Principles
 Principles define common guidelines that can be applyed to most of UI designs.
 
-###### Adaptive UI
+#### Adaptive UI
 To provide good usability of LOB applications and give user ability be efficient on variety of devices layout should be adjusted to width of the screen. 
 
 - **Screen size:**
@@ -25,23 +25,23 @@ To provide good usability of LOB applications and give user ability be efficient
     * Landscape
     * Portrait
 
-**Scale**
+###### Scale
 
 Layout adopts to sceen width by switching between brake points.
 
-**Float**
+###### Float
 
 Layout fill all width and changes with screen size.
 
-**Essential first**
+###### Essential first
 
 Prioritization of imnformation helps to hide aneccessary information on smalest screen resolutions.
 
-**Form factor specific**
+###### Form factor specific
 
 Layout can be chenaged to provide best usability on small screens.
 
-###### Extensiobility
+#### Extensiobility
 LOB applications interface has extension point that can be used to fill interface with specific functionality. 
 
 - Charms
@@ -53,29 +53,29 @@ LOB applications interface has extension point that can be used to fill interfac
 - Dashboard
     * Add tile dialog items
 
-###### Variety of input methods
-- Primary:
+#### Variety of input methods
+- **Primary:**
     * Touch
     * Keyboard
     * Mouse - unsupported for tablets and mobile devices
-- Secondary:
+- **Secondary:**
     * Voice
     * Sensors
 
-##### Multipartite applications
+#### Multipartite applications
 
-##### Intuitive UI
+#### Intuitive UI
 Understanding better then memorizing.
 
-### Connection resistant applications
+#### Connection resistant applications
 
 #### Heavy datasets
 
-##### Constant navigation
+#### Constant navigation
 
-###### Multitasking
+#### Multitasking
 
-####### Microinteractions
+#### Microinteractions
 
 
 ## <a name="patterns"></a> Patterns
