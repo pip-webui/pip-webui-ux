@@ -27,7 +27,7 @@ To provide good usability of LOB applications and give user ability be efficient
 
 ###### Scale
 
-Layout adopts to sceen width by switching between brake points.
+Layout adapts to sceen width by switching between brake points.
 
 ###### Float
 
