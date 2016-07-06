@@ -67,15 +67,15 @@ LOB applications interface has extension point that can be used to fill interfac
 ##### Intuitive UI
 Understanding better then memorizing.
 
-##### Connection resistant applications
+### Connection resistant applications
 
-##### Heavy datasets
+#### Heavy datasets
 
 ##### Constant navigation
 
-##### Multitasking
+###### Multitasking
 
-##### Microinteractions
+####### Microinteractions
 
 
 ## <a name="patterns"></a> Patterns
